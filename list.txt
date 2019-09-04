@@ -1,2 +1,2 @@
-001 test.rgz
-002 test.gpf
+001 20190905data.rgz
+002 20190905logo.gpf
